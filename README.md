@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/rizkyardiansah/404-not-found">
+    <a href="https://devchallenges.io/solutions/95Y8ereTvx6gD9GJJmsG">
       Solution
     </a>
     <span> | </span>
@@ -62,4 +62,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/rizkyardiansah/)
+- GitHub [rizkyardiansah](https://github.com/rizkyardiansah/)
