@@ -36,21 +36,16 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://github.com/rizkyardiansah/404-not-found/blob/d0154f1655294fe3ecc88534fc1605b60250f8b0/screenshot%20404%20not%20found.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+This is a 404 Not Found page that i made using only HTML and CSS. You can see the demo [here](https://tender-darwin-3cb743.netlify.app/). This challenge give me the hands-on experience on creating Responsive Web. By this challenge, i learn so much about css and responsive. You should try this challenge too.
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [HTML](https://reactjs.org/)
-- [CSS](https://vuejs.org/)
+- HTML
+- CSS
 
 ## Features
 
@@ -62,12 +57,9 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+- [HTML Tutorial](https://www.w3schools.com/html/)
+- [CSS Tutorial](https://www.w3schools.com/css/)
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- GitHub [@your-username](https://github.com/rizkyardiansah/)
